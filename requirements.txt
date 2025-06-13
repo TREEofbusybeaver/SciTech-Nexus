@@ -1,0 +1,7 @@
+Flask>=2.3,<3.0
+requests>=2.31,<3.0
+beautifulsoup4>=4.12,<5.0
+transformers>=4.30,<5.0
+torch>=2.0,<3.0
+python-dateutil>=2.8,<3.0
+lxml>=4.9,<5.0
